@@ -6,7 +6,7 @@ use app\models\User;
 
 class IndexController extends Controller
 {
-    public function actionTest()
+    public function actionIndex()
     {
 		$user1 = new User();
 		$deviceId = "324241234";
