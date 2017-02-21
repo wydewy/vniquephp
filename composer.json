@@ -1,0 +1,17 @@
+{
+    "name": "wydewy/vniquephp",
+    "description": "a php framework by wydewy",
+    "authors": [
+        {
+            "name": "wydewy",
+            "email": "wydewy@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "vnique\\": "src/",
+            "app\\": ""
+        }
+    }
+}
